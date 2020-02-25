@@ -1,0 +1,11 @@
+2019-12-04 10:23:40,903 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] 2019-12-03 00:00:00.0
+2019-12-04 10:23:40,915 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] 2019-12-04 23:59:00.0
+2019-12-04 10:23:40,916 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] UB00161
+2019-12-04 10:23:41,705 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] Cash+Card0.0
+2019-12-04 10:23:41,705 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] Cash+Card0.0
+2019-12-04 10:23:41,707 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-3] Cash+Card sales & return0.0 0.0
+2019-12-04 10:24:05,197 ERROR com.example.test.testingHMS.controller.SalesController [http-nio-8084-exec-2] 0
+2019-12-04 10:57:23,847 ERROR com.example.test.testingHMS.user.serviceImpl.DoctorDetailsServiceImpl [http-nio-8084-exec-1] The document has no pages.
+2019-12-04 10:58:15,957 ERROR com.example.test.testingHMS.user.serviceImpl.DoctorDetailsServiceImpl [http-nio-8084-exec-2] The document has no pages.
+2019-12-04 10:58:21,924 ERROR com.example.test.testingHMS.user.serviceImpl.DoctorDetailsServiceImpl [http-nio-8084-exec-3] The document has no pages.
+2019-12-04 11:13:40,292 ERROR com.example.test.testingHMS.user.serviceImpl.DoctorDetailsServiceImpl [http-nio-8084-exec-2] The document has no pages.
